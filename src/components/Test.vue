@@ -17,7 +17,6 @@
   BScroll.use(PullDown)
 
   export default {
-    name: 'mpx-scroll-view',
     data () {
       return {
         indexList: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
